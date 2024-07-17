@@ -1,4 +1,4 @@
-package com.abas.API.controller;
+package com.abas.api.controller;
 
 import com.abas.API.model.Product;
 import org.springframework.http.ResponseEntity;

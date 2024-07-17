@@ -1,4 +1,4 @@
-package com.abas.API;
+package com.abas.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
